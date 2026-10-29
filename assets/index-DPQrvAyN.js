@@ -162,10 +162,10 @@ Content-Type: `+l.contentType+`\r
         .scb-btn-red { background-color: #C41E3A; color: #fff; }
         .scb-btn-red:hover { background-color: #A91830; }
         .scb-btn-red:active { transform: scale(0.99); }
-        .scb-btn-draft { background-color: #CBD5E1; color: #0A2440; border: 1px solid #94A3B8; }
-        .scb-btn-draft:hover:not(:disabled) { background-color: #B6C2D2; }
-        .scb-dark .scb-btn-draft { background-color: #1F2C3A; color: #CBD5E1; border-color: #3A4857; }
-        .scb-dark .scb-btn-draft:hover:not(:disabled) { background-color: #2A3A4B; }
+        .scb-btn-draft { background-color: #0A2440; color: #fff; border: 1px solid #0A2440; }
+        .scb-btn-draft:hover:not(:disabled) { background-color: #123259; }
+        .scb-dark .scb-btn-draft { background-color: #2A4468; color: #fff; border-color: #3C5A84; }
+        .scb-dark .scb-btn-draft:hover:not(:disabled) { background-color: #34547F; }
         .scb-btn-navy:active { transform: scale(0.99); }
         .scb-team-btn { border-color: #cbd5e1; color: #0A2440; background-color: #fff; }
         .scb-team-btn:hover:not(:disabled) { border-color: #0A2440; }
